@@ -1,0 +1,17 @@
+.superpowers/
+.worktrees/
+__pycache__/
+.env
+*.pem
+*.key
+backend/.pytest_cache/
+backend/.pytest-*/
+backend/.coverage
+backend/*.egg-info/
+/data/
+data/doubao-browser-profile/
+frontend/node_modules/
+frontend/dist/
+frontend/playwright-report/
+frontend/test-results/
+*.log
